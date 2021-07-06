@@ -31,6 +31,9 @@ h1{
     background-image: url(images/background.png);
     background-repeat: no-repeat;
 }
+.recipies{
+    text-align: center;
+}
 .recipies p{
     text-align: justify;
 
@@ -40,12 +43,28 @@ h1{
     margin-left: 7%;
     margin-right: 0%;
     padding-left: 10px;
-    border-radius: 8px;
+    border-radius: 15px;
     box-shadow: 5px 5px 20px cyan;
+    margin-bottom: 150px;
 }
 .image-size{
     width: 90%;
     border-radius: 10%;
     margin-top: 5%;
     margin-left: 2%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
+footer h1{
+    color: grey;
+    padding: 30px;
+}
+footer p{
+    color: silver;
+    padding-bottom: 100px;
+}
+.foot-title{
+    color: orange;
 }
